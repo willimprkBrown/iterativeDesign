@@ -28,9 +28,9 @@ const Body = () => {
       <p>
         This project will focus on a startup company and iteratively designing
         an application for their service. The goal of the project is to create a
-        practical and efficient application that meets the needs of the users,
-        while also learning about how to design for a specific audience, and how
-        to iteratively design and evaluate a product.
+        practical, clean, user-friendly, and efficient application that meets
+        the needs of the users, while also learning about how to design for a
+        specific audience, and how to iteratively design and evaluate a product.
       </p>
 
       <h1>Acknowledgments</h1>
